@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">- 🎓 Hopkins CS Student ($176K Scholarship)<br>- Currently working on websites, mobile apps, and machine learning models<br>- Co-founder/CEO of Fumble (https://www.fumble.chat/)</p>
+- 🎓 Hopkins CS Student ($176K Scholarship)
+- Currently working on websites, mobile apps, and machine learning models
+- Co-founder/CEO of Fumble (https://www.fumble.chat/)
 
 ###
 
