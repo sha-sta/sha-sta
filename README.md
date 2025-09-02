@@ -3,8 +3,8 @@
 ###
 
 - 🎓 Hopkins CS Student ($176K Scholarship)
-- Currently working on websites, mobile apps, and machine learning models
-- Co-founder/CEO of Fumble (https://www.fumble.chat/)
+- 🚀 Currently working on websites, mobile apps, and machine learning models
+- ❤️ Co-founder/CEO of Fumble (https://www.fumble.chat/)
 
 ###
 
