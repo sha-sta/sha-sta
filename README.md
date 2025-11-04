@@ -6,7 +6,7 @@
   
 - 🚀 Currently working on websites, mobile apps, and machine learning models
   
-- ❤️ Co-founder/CEO of Fumble (https://www.fumble.chat/)
+- ❤️ Co-founder of Fumble (https://www.fumble.chat/)
 
 ###
 
