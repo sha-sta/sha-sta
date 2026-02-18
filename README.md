@@ -1,16 +1,13 @@
-<h1 align="left">Hi 👋, I'm Christian</h1>
+<h1 align="left">Hi I'm Christian :)</h1>
+
+###
+- **Johns Hopkins CS** | Hodson Scholar (~0.05% Acceptance)
+- 🚀 **Software Engineer Intern** at Iris Finance (Vector ETL & Financial Systems)
+- 🛠️ Currently working on websites, mobile apps, and machine learning models
 
 ###
 
-- 🎓 Hopkins CS Student ($176K Scholarship)
-  
-- 🚀 Currently working on websites, mobile apps, and machine learning models
-  
-- ❤️ Co-founder of Fumble (https://www.fumble.chat/)
-
-###
-
-<h2 align="left">Languages & Tools</h2>
+<h2 align="left">Languages, Tools, & Frameworks</h2>
 
 ###
 
@@ -27,27 +24,29 @@
 <!-- Frameworks & Libraries -->
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)](https://socket.io/)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![PyTorch Geometric](https://img.shields.io/badge/-PyTorch%20Geometric-2E3440?&logo=pytorch&logoColor=white)](https://pytorch-geometric.readthedocs.io/en/latest/)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](https://numpy.org)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](https://matplotlib.org)
 
-<!-- Developer Tools -->
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?&logo=arduino&logoColor=white)](https://www.arduino.cc)
-
 <!-- Databases & Cloud -->
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/products/platform)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://vercel.com)
 
-<!-- AI & APIs -->
-[![OpenAI](https://img.shields.io/badge/-OpenAI-74aa9c?&logo=openai&logoColor=white)](https://openai.com/api/)
+<!-- Developer Tools -->
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
+[![Cursor](https://img.shields.io/badge/Cursor-555555?logo=cursor&logoColor=white)](https://cursor.sh/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?&logo=arduino&logoColor=white)](https://www.arduino.cc)
 
 ###
 
