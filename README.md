@@ -1,9 +1,9 @@
 <h1 align="left">Hi I'm Christian :)</h1>
 
 ###
-- 🎓 **Johns Hopkins CS** | Hodson Scholar (~0.05% Acceptance)
-- 🚀 **Software Engineer Intern** at Iris Finance (Vector ETL & Financial Systems)
-- 🛠️ Currently working on websites, mobile apps, and machine learning models
+- 🎓 **Johns Hopkins CS** | Hodson Scholar (~0.05% acceptance)
+- 🚀 **Software Engineer Intern** at Iris Finance (vector ETL & financial systems)
+- 🛠️ **Cofounder** at HazyEyes (ML eye-tracking for impairment detection)
 
 ###
 
