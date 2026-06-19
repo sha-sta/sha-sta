@@ -2,7 +2,7 @@
 
 ###
 - 🎓 **Johns Hopkins CS** | Hodson Scholar (~0.05% acceptance)
-- 🚀 **Software Engineer Intern** at Iris Finance (vector ETL & financial systems)
+- 🚀 **Software Engineer Intern** at Iris Finance (vector-based normalization & financial systems)
 - 🛠️ **Cofounder** at HazyEyes (ML eye-tracking for impairment detection)
 
 ###
@@ -18,8 +18,6 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 <!-- Frameworks & Libraries -->
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev)
