@@ -1,7 +1,7 @@
 <h1 align="left">Hi I'm Christian :)</h1>
 
 ###
-- 🎓 **Johns Hopkins CS** | Hodson Scholar (~0.05% acceptance)
+- 🎓 **Johns Hopkins CS** | Hodson Scholar (~20 selected per class)
 - 🚀 **Software Engineer Intern** at Iris Finance (vector-based normalization & financial systems)
 - 🛠️ **Cofounder** at HazyEyes (ML eye-tracking for impairment detection)
 
