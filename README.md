@@ -3,7 +3,6 @@
 ###
 - 🎓 **Johns Hopkins CS** | Hodson Scholar (~20 selected per class)
 - 🚀 **Software Engineer Intern** at Iris Finance (vector-based normalization & financial systems)
-- 🛠️ **Cofounder** at HazyEyes (ML eye-tracking for impairment detection)
 
 ###
 
