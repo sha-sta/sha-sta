@@ -57,8 +57,8 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api?username=sha-sta&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api/top-langs/?username=sha-sta&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api?username=sha-sta&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api/top-langs/?username=sha-sta&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=jupyter%20notebook,html,css&exclude_repo=github-readme-stats" />
 </div>
 
 <div align="left">
