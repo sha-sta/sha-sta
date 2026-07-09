@@ -4,7 +4,8 @@
 
 - 🎓 **Johns Hopkins CS** | Hodson Scholar (~20 selected per class)
 - 🚀 **Software Engineer Intern** at Iris Finance (AI knowledge systems & financial data pipelines)
-- 🧠 I like building backend and ML systems that stay correct as they grow: knowledge graphs, RAG, and grounded LLM pipelines
+- 🧠 I like building backend and ML systems
+- 🌐 [christianyoon.com](https://christianyoon.com)
 - 📫 Reach me at cyoon16@jh.edu
 
 ###
