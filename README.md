@@ -1,11 +1,11 @@
-<h1 align="left">Hi I'm Christian :)</h1>
+<h1 align="center">Hi I'm Christian :)</h1>
 
 ###
 
 - 🎓 **Johns Hopkins CS** | Hodson Scholar (~20 selected per class)
-- 🚀 **Software Engineer Intern** at Iris Finance (AI knowledge systems & financial data pipelines)
-- 🧠 I like building backend and ML systems
-- 🌐 [christianyoon.com](https://christianyoon.com)
+- 🚀 **Software Engineer Intern** at Iris Finance (frontier financial data systems for cpg companies)
+- 🧠 Currently building backend and ML systems
+- 🌐 Find my projects at [christianyoon.com](https://christianyoon.com)
 - 📫 Reach me at cyoon16@jh.edu
 
 ###
