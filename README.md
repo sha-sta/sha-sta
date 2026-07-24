@@ -57,7 +57,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api?username=sha-sta&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide_rank=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-sta&hide_border=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api/top-langs/?username=sha-sta&layout=donut&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,plpgsql,shell,batchfile,makefile&exclude_repo=github-readme-stats&v=2" />
 </div>
 
