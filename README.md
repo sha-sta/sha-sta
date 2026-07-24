@@ -4,7 +4,7 @@
 
 - 🎓 **Johns Hopkins CS** | Hodson Scholar (~20 selected per class)
 - 🚀 **Software Engineer Intern** at Iris Finance (frontier financial data systems for cpg companies)
-- 🧠 Currently building backend and ML systems
+- 🛠️ Currently building backend and ML systems
 - 🌐 Find my projects at [christianyoon.com](https://christianyoon.com)
 - 📫 Reach me at cyoon16@jh.edu
 
