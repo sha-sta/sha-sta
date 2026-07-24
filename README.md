@@ -61,10 +61,6 @@
   <img height="165" src="https://github-readme-stats-eta-six-50.vercel.app/api/top-langs/?username=sha-sta&layout=donut&hide_border=true&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,plpgsql,shell,batchfile,makefile&exclude_repo=github-readme-stats&v=2" />
 </div>
 
-<div align="left">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-sta&hide_border=true&theme=tokyonight" />
-</div>
-
 ###
 
 <div align="left">
