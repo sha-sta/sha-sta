@@ -6,4 +6,4 @@
 - swe intern @ [iris finance](https://www.irisfinance.co)
 - co-founder @ [mira](https://www.trymira.app)
 - co-author in [*soft matter*](https://doi.org/10.1039/d6sm00313c) (nist + army research lab)
-- [christianyoon.com](https://christianyoon.com), cyoon16@jh.edu
+- [christianyoon.com](https://christianyoon.com)
