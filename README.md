@@ -5,5 +5,6 @@
 - cs @ [johns hopkins](https://www.cs.jhu.edu), hodson trust scholar
 - swe @ [iris finance](https://www.irisfinance.co)
 - co-founder @ [mira](https://www.trymira.app)
+- researcher @ [jhu sports analytics](https://sports-analytics.cs.jhu.edu/) (cv for pitch tipping)
 - co-author in [*soft matter*](https://doi.org/10.1039/d6sm00313c) (nist + army research lab)
 - [christianyoon.com](https://christianyoon.com)
